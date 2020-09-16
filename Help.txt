@@ -1,0 +1,9 @@
+Going back to a previous version
+git reset ****
+git restore test1.py
+
+Seeing log of commits
+git log
+
+Adding and commiting
+git commit -am "message"
