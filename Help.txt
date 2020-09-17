@@ -1,0 +1,18 @@
+Going back to a previous version
+git reset ****
+git restore test1.py
+
+Seeing log of commits
+git log
+
+Adding and commiting
+git commit -am "message"
+
+
+Problems:
+Pull/ Push
+Forking twice
+
+$ git remote add origin2 https://github.com/cpurmessur/Test-2.git
+
+$ git push -u origin master
